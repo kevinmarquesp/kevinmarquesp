@@ -10,7 +10,7 @@
 
 ---
 
-<p align="center">
+<p>
   <em>Linguagens citadas acima</em>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;
