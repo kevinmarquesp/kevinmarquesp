@@ -13,7 +13,6 @@
 <p>
   <em>Linguagens citadas acima</em>
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="30px" src="Images/html.png" alt="HTML">
   <img width="30px" src="Images/css.png" alt="CSS">
   <img width="30px" src="Images/scss.png" alt="Scss">
@@ -27,7 +26,6 @@
   <br>
   <em>O que uso para desenvolver</em>
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="30px" src="Images/linux.png" alt="GNU/Linux">
   <img width="30px" src="Images/neovim.png" alt="Neovim">
   <img width="30px" src="Images/vim.png" alt="Vim">
