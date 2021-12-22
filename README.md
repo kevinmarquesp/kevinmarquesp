@@ -4,7 +4,7 @@
 
 #### Tecnologias que eu uso
 
-- **Linguagens que aprendi:** HTML, CSS e Scss, JavaScript e React com NextJS.
+- **Tectologias que aprendi:** HTML, CSS e Scss, JavaScript e React com NextJS.
 - **Outras linguagens que sei um pouco:** Bash e Python.
 - **Linguagens que pretendo aprender:** Go, C++, Rust, C e Ruby.
 
@@ -19,7 +19,7 @@
   <img width="30px" src="Images/javascript.png" alt="JavaScript">
   <img width="30px" src="Images/react.png" alt="React">
   <img width="30px" src="Images/nextjs.png" alt="NextJS">
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img width="30px" src="Images/shell.png" alt="Shell Script">
   <img width="30px" src="Images/python.png" alt="Python">
   <br>
