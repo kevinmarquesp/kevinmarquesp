@@ -1,17 +1,18 @@
-### Olá, me chamo Kevin Marques 👋
+### Hello there, I'm Kevin Marques! 👋
 🔥 *Um estudante de programação e desenvolvedor web junior.*
+🔥 *Just a nerd who likes programming and web development.*
 
 
-#### Tecnologias que eu uso
+#### Stuffs that I'm interested in...
 
-- **Tectologias que aprendi:** HTML, CSS e Scss, JavaScript e React com NextJS.
-- **Outras linguagens que sei um pouco:** Bash e Python.
-- **Linguagens que pretendo aprender:** Go, C++, Rust, C e Ruby.
+- **What I learned:** HTML, CSS e Scss, JavaScript e React com NextJS.
+- **I know how to use too:** Bash e Python.
+- **What I want to learn:** Go, C++, Rust, C e Ruby.
 
 ---
 
 <p>
-  <em>Linguagens citadas acima</em>
+  <em>Languages above</em>
   <br>
   <img width="30px" src="Images/html.png" alt="HTML">
   <img width="30px" src="Images/css.png" alt="CSS">
@@ -24,7 +25,7 @@
   <img width="30px" src="Images/python.png" alt="Python">
   <br>
   <br>
-  <em>O que uso para desenvolver</em>
+  <em>What I use in my workflow</em>
   <br>
   <img width="30px" src="Images/linux.png" alt="GNU/Linux">
   <img width="30px" src="Images/neovim.png" alt="Neovim">
