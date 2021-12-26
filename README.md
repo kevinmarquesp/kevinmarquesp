@@ -1,5 +1,4 @@
 ### Hello there, I'm Kevin Marques! 👋
-🔥 *Um estudante de programação e desenvolvedor web junior.*
 🔥 *Just a nerd who likes programming and web development.*
 
 
