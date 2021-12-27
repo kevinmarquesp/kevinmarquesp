@@ -11,7 +11,7 @@
 ---
 
 <p>
-  <em>Languages above</em>
+  <em>Technologies above</em>
   <br>
   <img width="30px" src="Images/html.png" alt="HTML">
   <img width="30px" src="Images/css.png" alt="CSS">
