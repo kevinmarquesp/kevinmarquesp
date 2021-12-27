@@ -33,3 +33,9 @@
   <img width="30px" src="Images/sublime.png" alt="Sublime Text">
 </p>
 
+<br>
+
+<p align="right">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=kevinmarquesp&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmarquesp&layout=compact&langs_count=7&theme=nord"/>
+</p>
