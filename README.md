@@ -8,34 +8,29 @@
 - **I know how to use too:** Bash e Python.
 - **What I want to learn:** Go, C++, Rust, C e Ruby.
 
----
+##
 
-<p>
-  <em>Technologies above</em>
-  <br>
-  <img width="30px" src="Images/html.png" alt="HTML">
-  <img width="30px" src="Images/css.png" alt="CSS">
-  <img width="30px" src="Images/scss.png" alt="Scss">
-  <img width="30px" src="Images/javascript.png" alt="JavaScript">
-  <img width="30px" src="Images/react.png" alt="React">
-  <img width="30px" src="Images/nextjs.png" alt="NextJS">
-  &nbsp;&nbsp;
-  <img width="30px" src="Images/shell.png" alt="Shell Script">
-  <img width="30px" src="Images/python.png" alt="Python">
-  <br>
-  <br>
-  <em>What I use in my workflow</em>
-  <br>
-  <img width="30px" src="Images/linux.png" alt="GNU/Linux">
-  <img width="30px" src="Images/neovim.png" alt="Neovim">
-  <img width="30px" src="Images/vim.png" alt="Vim">
-  <img width="30px" src="Images/tmux.png" alt="Tmux">
-  <img width="30px" src="Images/sublime.png" alt="Sublime Text">
-</p>
+<div align="left">
+  <a href="https://github.com/kevinmarquesp">
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmarquesp&layout=compact&langs_count=10&theme=nord" />
+    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=kevinmarquesp&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+  </a>
+</div>
 
 <br>
-
-<p>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=kevinmarquesp&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmarquesp&layout=compact&langs_count=7&theme=nord"/>
-</p>
+  
+<div>
+  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> &nbsp;
+  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> &nbsp;
+  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp;
+  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> &nbsp;
+  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> &nbsp;
+  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> &nbsp;
+  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> &nbsp;
+  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+  
+  <br>
+  
+  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /> &nbsp;
+  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> &nbsp;
+</div>
