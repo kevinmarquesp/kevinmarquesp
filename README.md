@@ -16,7 +16,7 @@
 
 <em>🔥 I'm just a geek who's studing web developmment</em>
 
-<p align="center">
+<p>
   <br><br>
   <img
     height="80px"
@@ -92,10 +92,8 @@
 
 ## 
 
-<p align="center">
+<p>
   <br>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmarquesp&layout=compact&langs_count=10&theme=nord" />
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=kevinmarquesp&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=kevinmarquesp&theme=nord&column=7">
 </p>
