@@ -12,6 +12,10 @@ Hello world! As you can see on my profile, my name is Kevin Marques and I'm a Br
 
 :link: [Email](mailto:kevinmarquesp478@protonmail.com) **|** [Discord](http://discordapp.com/users/n_station) **|** [Blog](https://kevinmarquesp.github.io)
 
-<br/>
+<hr/>
 
+### More Detailed Information
+I'm still studying some of the most important subjects in technology yet, but I'm happy to say that I'm comfortable enough to deal with **Docker images**, **SQL databases** and **Regex**. Besides coding, my hobbies include exploring new things -- I started learning **Spanish** recently --, writing articles on my personal blog and drawn manga, graffiti or other cool art styles.
+
+<br/>
 <img width="1080px" src="./img/decorator-bottom.svg"/>
