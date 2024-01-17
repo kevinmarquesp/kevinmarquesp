@@ -1,3 +1,13 @@
+<img width="1080px" src="./img/decorator-top.svg"/>
+
+<div align="center">
+  <br/><br/>
+  <img width="300em" src="./img/logo.svg"/>
+  <br/><br/>
+</div>
+
+<hr/>
+
 ### Hi there
 
 <!--
@@ -14,3 +24,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: rehumilebiagini@gmail.com
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: The clitoris has twice as many nerve endings as the penis
+
+<img width="1080px" src="./img/decorator-bottom.svg"/>
