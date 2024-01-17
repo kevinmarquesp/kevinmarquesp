@@ -8,21 +8,10 @@
 
 <hr/>
 
-### Hi there
+Hello world! As you can see on my profile, my name is Kevin Marques and I'm a Brazilian software developer that really loves technology and doing software. Currently, I'm studying to become a **full-stack developer** :sparkles: someday and this Github account is where I share my projects and contribuitions, hope you enjoy some of my work. Also, if you want some help, feel free to get in touch!
 
-<!--
-**username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+:link: [Email](mailto:kevinmarquesp478@protonmail.com) **|** [Discord](http://discordapp.com/users/n_station) **|** [Blog](https://kevinmarquesp.github.io)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on consistently writing to take note of my progress in daily productivity because I struggle with procrastination
-- 🌱 I’m currently learning how to play guitar, write accademically, make films, and be consistent.
-- 👯 I’m looking to collaborate on music, movies, cool AI stuff, anything I think is fun and worth while. 
-- 🤔 I’m looking for help with how to host a website locally.
-- 💬 Ask me about film theory, italian litterature, editing films, social media, or politics.
-- 📫 How to reach me: rehumilebiagini@gmail.com
-- 😄 Pronouns: She/Her 
-- ⚡ Fun fact: The clitoris has twice as many nerve endings as the penis
+<br/>
 
 <img width="1080px" src="./img/decorator-bottom.svg"/>
