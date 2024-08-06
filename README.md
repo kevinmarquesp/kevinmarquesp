@@ -60,7 +60,10 @@ What I use on my development enviroment:<br/><br/>
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Shell_Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <br/><br/><br/>
 <img width="1080px" src="./img/decorator-bottom.svg"/>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=p471atd39j3vwdbzdin3rtsr3&count=10&unique=1&width=1000px)
