@@ -3,11 +3,13 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
 <!-- Personal logo block -->
 <div align="center">
-  <img width="150em" src="./img/logo.svg"/>
+  <img width="500em" src="./img/logo.svg"/>
 </div>
+<br/>
 <br/>
 <br/>
 
@@ -27,7 +29,9 @@ Self-taught software engineer student who cares more about how code is built tha
 
 
 <!-- My skills shown in icons -->
-<hr/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <p align="center">
